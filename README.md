@@ -1,0 +1,1 @@
+Read the config.env to config your MongDB
